@@ -1,3 +1,3 @@
 # FullCycle Signed Commit
 
-Commit sign...
+Commit sign!
